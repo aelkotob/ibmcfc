@@ -1,0 +1,4305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49375734545566,
+                            45.703508676491275
+                        ],
+                        [
+                            -73.49343629014282,
+                            45.70350865850534
+                        ],
+                        [
+                            -73.49343626382912,
+                            45.70373361136623
+                        ],
+                        [
+                            -73.49375732042958,
+                            45.7037336293523
+                        ],
+                        [
+                            -73.49375734545566,
+                            45.703508676491275
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49343629014282,
+                            45.70350865850534
+                        ],
+                        [
+                            -73.49311523483033,
+                            45.703508639617226
+                        ],
+                        [
+                            -73.49311520722898,
+                            45.70373359247795
+                        ],
+                        [
+                            -73.49343626382912,
+                            45.70373361136623
+                        ],
+                        [
+                            -73.49343629014282,
+                            45.70350865850534
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49311523483033,
+                            45.703508639617226
+                        ],
+                        [
+                            -73.49279417951814,
+                            45.703508619826884
+                        ],
+                        [
+                            -73.49279415062918,
+                            45.70373357268747
+                        ],
+                        [
+                            -73.49311520722898,
+                            45.70373359247795
+                        ],
+                        [
+                            -73.49311523483033,
+                            45.703508639617226
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49407842450691,
+                            45.70328374070496
+                        ],
+                        [
+                            -73.4937573704814,
+                            45.703283723621354
+                        ],
+                        [
+                            -73.49375734545566,
+                            45.703508676491275
+                        ],
+                        [
+                            -73.49407840076876,
+                            45.70350869357501
+                        ],
+                        [
+                            -73.49407842450691,
+                            45.70328374070496
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4937573704814,
+                            45.703283723621354
+                        ],
+                        [
+                            -73.49343631645621,
+                            45.70328370563558
+                        ],
+                        [
+                            -73.49343629014282,
+                            45.70350865850534
+                        ],
+                        [
+                            -73.49375734545566,
+                            45.703508676491275
+                        ],
+                        [
+                            -73.4937573704814,
+                            45.703283723621354
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49343631645621,
+                            45.70328370563558
+                        ],
+                        [
+                            -73.49311526243132,
+                            45.70328368674758
+                        ],
+                        [
+                            -73.49311523483033,
+                            45.703508639617226
+                        ],
+                        [
+                            -73.49343629014282,
+                            45.70350865850534
+                        ],
+                        [
+                            -73.49343631645621,
+                            45.70328370563558
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49311526243132,
+                            45.70328368674758
+                        ],
+                        [
+                            -73.49279420840676,
+                            45.70328366695742
+                        ],
+                        [
+                            -73.49279417951814,
+                            45.703508619826884
+                        ],
+                        [
+                            -73.49311523483033,
+                            45.703508639617226
+                        ],
+                        [
+                            -73.49311526243132,
+                            45.70328368674758
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49279420840676,
+                            45.70328366695742
+                        ],
+                        [
+                            -73.49247315438252,
+                            45.70328364626506
+                        ],
+                        [
+                            -73.49247312420628,
+                            45.70350859913438
+                        ],
+                        [
+                            -73.49279417951814,
+                            45.703508619826884
+                        ],
+                        [
+                            -73.49279420840676,
+                            45.70328366695742
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49247315438252,
+                            45.70328364626506
+                        ],
+                        [
+                            -73.49215210035867,
+                            45.7032836246705
+                        ],
+                        [
+                            -73.4921520688948,
+                            45.70350857753966
+                        ],
+                        [
+                            -73.49247312420628,
+                            45.70350859913438
+                        ],
+                        [
+                            -73.49247315438252,
+                            45.70328364626506
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49439950098296,
+                            45.70305880400729
+                        ],
+                        [
+                            -73.49407844824478,
+                            45.703058787826
+                        ],
+                        [
+                            -73.49407842450691,
+                            45.70328374070496
+                        ],
+                        [
+                            -73.4943994785327,
+                            45.703283756886364
+                        ],
+                        [
+                            -73.49439950098296,
+                            45.70305880400729
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49407844824478,
+                            45.703058787826
+                        ],
+                        [
+                            -73.49375739550688,
+                            45.703058770742544
+                        ],
+                        [
+                            -73.4937573704814,
+                            45.703283723621354
+                        ],
+                        [
+                            -73.49407842450691,
+                            45.70328374070496
+                        ],
+                        [
+                            -73.49407844824478,
+                            45.703058787826
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49375739550688,
+                            45.703058770742544
+                        ],
+                        [
+                            -73.49343634276929,
+                            45.7030587527569
+                        ],
+                        [
+                            -73.49343631645621,
+                            45.70328370563558
+                        ],
+                        [
+                            -73.4937573704814,
+                            45.703283723621354
+                        ],
+                        [
+                            -73.49375739550688,
+                            45.703058770742544
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49343634276929,
+                            45.7030587527569
+                        ],
+                        [
+                            -73.49311529003201,
+                            45.703058733869064
+                        ],
+                        [
+                            -73.49311526243132,
+                            45.70328368674758
+                        ],
+                        [
+                            -73.49343631645621,
+                            45.70328370563558
+                        ],
+                        [
+                            -73.49343634276929,
+                            45.7030587527569
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49311529003201,
+                            45.703058733869064
+                        ],
+                        [
+                            -73.49279423729503,
+                            45.703058714079056
+                        ],
+                        [
+                            -73.49279420840676,
+                            45.70328366695742
+                        ],
+                        [
+                            -73.49311526243132,
+                            45.70328368674758
+                        ],
+                        [
+                            -73.49311529003201,
+                            45.703058733869064
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49279423729503,
+                            45.703058714079056
+                        ],
+                        [
+                            -73.4924731845584,
+                            45.70305869338685
+                        ],
+                        [
+                            -73.49247315438252,
+                            45.70328364626506
+                        ],
+                        [
+                            -73.49279420840676,
+                            45.70328366695742
+                        ],
+                        [
+                            -73.49279423729503,
+                            45.703058714079056
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4924731845584,
+                            45.70305869338685
+                        ],
+                        [
+                            -73.49215213182214,
+                            45.70305867179246
+                        ],
+                        [
+                            -73.49215210035867,
+                            45.7032836246705
+                        ],
+                        [
+                            -73.49247315438252,
+                            45.70328364626506
+                        ],
+                        [
+                            -73.4924731845584,
+                            45.70305869338685
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49504162633492,
+                            45.70283388077511
+                        ],
+                        [
+                            -73.49472057488381,
+                            45.70283386639831
+                        ],
+                        [
+                            -73.49472055372141,
+                            45.703058819286404
+                        ],
+                        [
+                            -73.49504160646009,
+                            45.70305883366333
+                        ],
+                        [
+                            -73.49504162633492,
+                            45.70283388077511
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49472057488381,
+                            45.70283386639831
+                        ],
+                        [
+                            -73.49439952343296,
+                            45.70283385111932
+                        ],
+                        [
+                            -73.49439950098296,
+                            45.70305880400729
+                        ],
+                        [
+                            -73.49472055372141,
+                            45.703058819286404
+                        ],
+                        [
+                            -73.49472057488381,
+                            45.70283386639831
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49439952343296,
+                            45.70283385111932
+                        ],
+                        [
+                            -73.49407847198236,
+                            45.702833834938176
+                        ],
+                        [
+                            -73.49407844824478,
+                            45.703058787826
+                        ],
+                        [
+                            -73.49439950098296,
+                            45.70305880400729
+                        ],
+                        [
+                            -73.49439952343296,
+                            45.70283385111932
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49407847198236,
+                            45.702833834938176
+                        ],
+                        [
+                            -73.49375742053205,
+                            45.70283381785483
+                        ],
+                        [
+                            -73.49375739550688,
+                            45.703058770742544
+                        ],
+                        [
+                            -73.49407844824478,
+                            45.703058787826
+                        ],
+                        [
+                            -73.49407847198236,
+                            45.702833834938176
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49375742053205,
+                            45.70283381785483
+                        ],
+                        [
+                            -73.49343636908205,
+                            45.702833799869325
+                        ],
+                        [
+                            -73.49343634276929,
+                            45.7030587527569
+                        ],
+                        [
+                            -73.49375739550688,
+                            45.703058770742544
+                        ],
+                        [
+                            -73.49375742053205,
+                            45.70283381785483
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49343636908205,
+                            45.702833799869325
+                        ],
+                        [
+                            -73.49311531763234,
+                            45.70283378098162
+                        ],
+                        [
+                            -73.49311529003201,
+                            45.703058733869064
+                        ],
+                        [
+                            -73.49343634276929,
+                            45.7030587527569
+                        ],
+                        [
+                            -73.49343636908205,
+                            45.702833799869325
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49311531763234,
+                            45.70283378098162
+                        ],
+                        [
+                            -73.49279426618295,
+                            45.702833761191776
+                        ],
+                        [
+                            -73.49279423729503,
+                            45.703058714079056
+                        ],
+                        [
+                            -73.49311529003201,
+                            45.703058733869064
+                        ],
+                        [
+                            -73.49311531763234,
+                            45.70283378098162
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49279426618295,
+                            45.702833761191776
+                        ],
+                        [
+                            -73.49247321473393,
+                            45.70283374049973
+                        ],
+                        [
+                            -73.4924731845584,
+                            45.70305869338685
+                        ],
+                        [
+                            -73.49279423729503,
+                            45.703058714079056
+                        ],
+                        [
+                            -73.49279426618295,
+                            45.702833761191776
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49247321473393,
+                            45.70283374049973
+                        ],
+                        [
+                            -73.49215216328525,
+                            45.70283371890552
+                        ],
+                        [
+                            -73.49215213182214,
+                            45.70305867179246
+                        ],
+                        [
+                            -73.4924731845584,
+                            45.70305869338685
+                        ],
+                        [
+                            -73.49247321473393,
+                            45.70283374049973
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49600479670147,
+                            45.7026089655951
+                        ],
+                        [
+                            -73.49568374653727,
+                            45.702608953924916
+                        ],
+                        [
+                            -73.49568372923784,
+                            45.7028339068222
+                        ],
+                        [
+                            -73.4960047806896,
+                            45.70283391849248
+                        ],
+                        [
+                            -73.49600479670147,
+                            45.7026089655951
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49568374653727,
+                            45.702608953924916
+                        ],
+                        [
+                            -73.49536269637329,
+                            45.70260894135254
+                        ],
+                        [
+                            -73.49536267778626,
+                            45.702833894249764
+                        ],
+                        [
+                            -73.49568372923784,
+                            45.7028339068222
+                        ],
+                        [
+                            -73.49568374653727,
+                            45.702608953924916
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49536269637329,
+                            45.70260894135254
+                        ],
+                        [
+                            -73.49504164620951,
+                            45.702608927878025
+                        ],
+                        [
+                            -73.49504162633492,
+                            45.70283388077511
+                        ],
+                        [
+                            -73.49536267778626,
+                            45.702833894249764
+                        ],
+                        [
+                            -73.49536269637329,
+                            45.70260894135254
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49504164620951,
+                            45.702608927878025
+                        ],
+                        [
+                            -73.49472059604598,
+                            45.702608913501315
+                        ],
+                        [
+                            -73.49472057488381,
+                            45.70283386639831
+                        ],
+                        [
+                            -73.49504162633492,
+                            45.70283388077511
+                        ],
+                        [
+                            -73.49504164620951,
+                            45.702608927878025
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49472059604598,
+                            45.702608913501315
+                        ],
+                        [
+                            -73.4943995458827,
+                            45.70260889822247
+                        ],
+                        [
+                            -73.49439952343296,
+                            45.70283385111932
+                        ],
+                        [
+                            -73.49472057488381,
+                            45.70283386639831
+                        ],
+                        [
+                            -73.49472059604598,
+                            45.702608913501315
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4943995458827,
+                            45.70260889822247
+                        ],
+                        [
+                            -73.49407849571966,
+                            45.702608882041424
+                        ],
+                        [
+                            -73.49407847198236,
+                            45.702833834938176
+                        ],
+                        [
+                            -73.49439952343296,
+                            45.70283385111932
+                        ],
+                        [
+                            -73.4943995458827,
+                            45.70260889822247
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49407849571966,
+                            45.702608882041424
+                        ],
+                        [
+                            -73.49375744555692,
+                            45.70260886495822
+                        ],
+                        [
+                            -73.49375742053205,
+                            45.70283381785483
+                        ],
+                        [
+                            -73.49407847198236,
+                            45.702833834938176
+                        ],
+                        [
+                            -73.49407849571966,
+                            45.702608882041424
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49375744555692,
+                            45.70260886495822
+                        ],
+                        [
+                            -73.4934363953945,
+                            45.70260884697285
+                        ],
+                        [
+                            -73.49343636908205,
+                            45.702833799869325
+                        ],
+                        [
+                            -73.49375742053205,
+                            45.70283381785483
+                        ],
+                        [
+                            -73.49375744555692,
+                            45.70260886495822
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4934363953945,
+                            45.70260884697285
+                        ],
+                        [
+                            -73.49311534523235,
+                            45.702608828085324
+                        ],
+                        [
+                            -73.49311531763234,
+                            45.70283378098162
+                        ],
+                        [
+                            -73.49343636908205,
+                            45.702833799869325
+                        ],
+                        [
+                            -73.4934363953945,
+                            45.70260884697285
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49311534523235,
+                            45.702608828085324
+                        ],
+                        [
+                            -73.49279429507055,
+                            45.702608808295615
+                        ],
+                        [
+                            -73.49279426618295,
+                            45.702833761191776
+                        ],
+                        [
+                            -73.49311531763234,
+                            45.70283378098162
+                        ],
+                        [
+                            -73.49311534523235,
+                            45.702608828085324
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49279429507055,
+                            45.702608808295615
+                        ],
+                        [
+                            -73.49247324490909,
+                            45.70260878760373
+                        ],
+                        [
+                            -73.49247321473393,
+                            45.70283374049973
+                        ],
+                        [
+                            -73.49279426618295,
+                            45.702833761191776
+                        ],
+                        [
+                            -73.49279429507055,
+                            45.702608808295615
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49247324490909,
+                            45.70260878760373
+                        ],
+                        [
+                            -73.49215219474797,
+                            45.70260876600969
+                        ],
+                        [
+                            -73.49215216328525,
+                            45.70283371890552
+                        ],
+                        [
+                            -73.49247321473393,
+                            45.70283374049973
+                        ],
+                        [
+                            -73.49247324490909,
+                            45.70260878760373
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47738388798776,
+                            45.70260679743968
+                        ],
+                        [
+                            -73.47706283786067,
+                            45.70260673344372
+                        ],
+                        [
+                            -73.4770627458821,
+                            45.702831686323684
+                        ],
+                        [
+                            -73.47738379729671,
+                            45.70283175032017
+                        ],
+                        [
+                            -73.47738388798776,
+                            45.70260679743968
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4767417877347,
+                            45.702606668545585
+                        ],
+                        [
+                            -73.4764207376098,
+                            45.70260660274529
+                        ],
+                        [
+                            -73.47642064305606,
+                            45.70283155562425
+                        ],
+                        [
+                            -73.47674169446852,
+                            45.70283162142506
+                        ],
+                        [
+                            -73.4767417877347,
+                            45.702606668545585
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49728900822147,
+                            45.70238405034759
+                        ],
+                        [
+                            -73.49696795934415,
+                            45.70238404228613
+                        ],
+                        [
+                            -73.49696794719513,
+                            45.70260899519267
+                        ],
+                        [
+                            -73.49728899736,
+                            45.702609003254175
+                        ],
+                        [
+                            -73.49728900822147,
+                            45.70238405034759
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49696795934415,
+                            45.70238404228613
+                        ],
+                        [
+                            -73.49664691046699,
+                            45.70238403332253
+                        ],
+                        [
+                            -73.49664689703043,
+                            45.702608986228974
+                        ],
+                        [
+                            -73.49696794719513,
+                            45.70260899519267
+                        ],
+                        [
+                            -73.49696795934415,
+                            45.70238404228613
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49664691046699,
+                            45.70238403332253
+                        ],
+                        [
+                            -73.49632586159,
+                            45.702384023456744
+                        ],
+                        [
+                            -73.49632584686586,
+                            45.70260897636312
+                        ],
+                        [
+                            -73.49664689703043,
+                            45.702608986228974
+                        ],
+                        [
+                            -73.49664691046699,
+                            45.70238403332253
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49632586159,
+                            45.702384023456744
+                        ],
+                        [
+                            -73.49600481271317,
+                            45.70238401268882
+                        ],
+                        [
+                            -73.49600479670147,
+                            45.7026089655951
+                        ],
+                        [
+                            -73.49632584686586,
+                            45.70260897636312
+                        ],
+                        [
+                            -73.49632586159,
+                            45.702384023456744
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49600481271317,
+                            45.70238401268882
+                        ],
+                        [
+                            -73.49568376383651,
+                            45.70238400101871
+                        ],
+                        [
+                            -73.49568374653727,
+                            45.702608953924916
+                        ],
+                        [
+                            -73.49600479670147,
+                            45.7026089655951
+                        ],
+                        [
+                            -73.49600481271317,
+                            45.70238401268882
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49568376383651,
+                            45.70238400101871
+                        ],
+                        [
+                            -73.49536271496008,
+                            45.702383988446456
+                        ],
+                        [
+                            -73.49536269637329,
+                            45.70260894135254
+                        ],
+                        [
+                            -73.49568374653727,
+                            45.702608953924916
+                        ],
+                        [
+                            -73.49568376383651,
+                            45.70238400101871
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49536271496008,
+                            45.702383988446456
+                        ],
+                        [
+                            -73.49504166608386,
+                            45.70238397497203
+                        ],
+                        [
+                            -73.49504164620951,
+                            45.702608927878025
+                        ],
+                        [
+                            -73.49536269637329,
+                            45.70260894135254
+                        ],
+                        [
+                            -73.49536271496008,
+                            45.702383988446456
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49504166608386,
+                            45.70238397497203
+                        ],
+                        [
+                            -73.49472061720786,
+                            45.702383960595434
+                        ],
+                        [
+                            -73.49472059604598,
+                            45.702608913501315
+                        ],
+                        [
+                            -73.49504164620951,
+                            45.702608927878025
+                        ],
+                        [
+                            -73.49504166608386,
+                            45.70238397497203
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49472061720786,
+                            45.702383960595434
+                        ],
+                        [
+                            -73.49439956833217,
+                            45.70238394531668
+                        ],
+                        [
+                            -73.4943995458827,
+                            45.70260889822247
+                        ],
+                        [
+                            -73.49472059604598,
+                            45.702608913501315
+                        ],
+                        [
+                            -73.49472061720786,
+                            45.702383960595434
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49439956833217,
+                            45.70238394531668
+                        ],
+                        [
+                            -73.49407851945669,
+                            45.70238392913578
+                        ],
+                        [
+                            -73.49407849571966,
+                            45.702608882041424
+                        ],
+                        [
+                            -73.4943995458827,
+                            45.70260889822247
+                        ],
+                        [
+                            -73.49439956833217,
+                            45.70238394531668
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49407851945669,
+                            45.70238392913578
+                        ],
+                        [
+                            -73.49375747058151,
+                            45.70238391205273
+                        ],
+                        [
+                            -73.49375744555692,
+                            45.70260886495822
+                        ],
+                        [
+                            -73.49407849571966,
+                            45.702608882041424
+                        ],
+                        [
+                            -73.49407851945669,
+                            45.70238392913578
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49375747058151,
+                            45.70238391205273
+                        ],
+                        [
+                            -73.49343642170663,
+                            45.70238389406749
+                        ],
+                        [
+                            -73.4934363953945,
+                            45.70260884697285
+                        ],
+                        [
+                            -73.49375744555692,
+                            45.70260886495822
+                        ],
+                        [
+                            -73.49375747058151,
+                            45.70238391205273
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49343642170663,
+                            45.70238389406749
+                        ],
+                        [
+                            -73.49311537283207,
+                            45.7023838751801
+                        ],
+                        [
+                            -73.49311534523235,
+                            45.702608828085324
+                        ],
+                        [
+                            -73.4934363953945,
+                            45.70260884697285
+                        ],
+                        [
+                            -73.49343642170663,
+                            45.70238389406749
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47834712520269,
+                            45.702382031123705
+                        ],
+                        [
+                            -73.47802607635998,
+                            45.702381969834725
+                        ],
+                        [
+                            -73.47802598824514,
+                            45.70260692272508
+                        ],
+                        [
+                            -73.47834703837539,
+                            45.70260698401452
+                        ],
+                        [
+                            -73.47834712520269,
+                            45.702382031123705
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47802607635998,
+                            45.702381969834725
+                        ],
+                        [
+                            -73.47770502751831,
+                            45.70238190764359
+                        ],
+                        [
+                            -73.47770493811592,
+                            45.70260686053346
+                        ],
+                        [
+                            -73.47802598824514,
+                            45.70260692272508
+                        ],
+                        [
+                            -73.47802607635998,
+                            45.702381969834725
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47770502751831,
+                            45.70238190764359
+                        ],
+                        [
+                            -73.47738397867772,
+                            45.70238184455029
+                        ],
+                        [
+                            -73.47738388798776,
+                            45.70260679743968
+                        ],
+                        [
+                            -73.47770493811592,
+                            45.70260686053346
+                        ],
+                        [
+                            -73.47770502751831,
+                            45.70238190764359
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4770629298382,
+                            45.70238178055484
+                        ],
+                        [
+                            -73.47674188099977,
+                            45.70238171565722
+                        ],
+                        [
+                            -73.4767417877347,
+                            45.702606668545585
+                        ],
+                        [
+                            -73.47706283786067,
+                            45.70260673344372
+                        ],
+                        [
+                            -73.4770629298382,
+                            45.70238178055484
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49921530462358,
+                            45.70215912685521
+                        ],
+                        [
+                            -73.49889425703326,
+                            45.70215912420674
+                        ],
+                        [
+                            -73.49889425260963,
+                            45.702384077122446
+                        ],
+                        [
+                            -73.4992153014875,
+                            45.702384079770916
+                        ],
+                        [
+                            -73.49921530462358,
+                            45.70215912685521
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49889425703326,
+                            45.70215912420674
+                        ],
+                        [
+                            -73.498573209443,
+                            45.70215912065612
+                        ],
+                        [
+                            -73.49857320373184,
+                            45.7023840735718
+                        ],
+                        [
+                            -73.49889425260963,
+                            45.702384077122446
+                        ],
+                        [
+                            -73.49889425703326,
+                            45.70215912420674
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.498573209443,
+                            45.70215912065612
+                        ],
+                        [
+                            -73.4982521618528,
+                            45.702159116203354
+                        ],
+                        [
+                            -73.49825215485411,
+                            45.70238406911897
+                        ],
+                        [
+                            -73.49857320373184,
+                            45.7023840735718
+                        ],
+                        [
+                            -73.498573209443,
+                            45.70215912065612
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4982521618528,
+                            45.702159116203354
+                        ],
+                        [
+                            -73.49793111426271,
+                            45.702159110848434
+                        ],
+                        [
+                            -73.49793110597646,
+                            45.70238406376402
+                        ],
+                        [
+                            -73.49825215485411,
+                            45.70238406911897
+                        ],
+                        [
+                            -73.4982521618528,
+                            45.702159116203354
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49793111426271,
+                            45.702159110848434
+                        ],
+                        [
+                            -73.4976100666727,
+                            45.702159104591324
+                        ],
+                        [
+                            -73.49761005709891,
+                            45.702384057506876
+                        ],
+                        [
+                            -73.49793110597646,
+                            45.70238406376402
+                        ],
+                        [
+                            -73.49793111426271,
+                            45.702159110848434
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4976100666727,
+                            45.702159104591324
+                        ],
+                        [
+                            -73.4972890190828,
+                            45.70215909743211
+                        ],
+                        [
+                            -73.49728900822147,
+                            45.70238405034759
+                        ],
+                        [
+                            -73.49761005709891,
+                            45.702384057506876
+                        ],
+                        [
+                            -73.4976100666727,
+                            45.702159104591324
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4972890190828,
+                            45.70215909743211
+                        ],
+                        [
+                            -73.49696797149304,
+                            45.7021590893707
+                        ],
+                        [
+                            -73.49696795934415,
+                            45.70238404228613
+                        ],
+                        [
+                            -73.49728900822147,
+                            45.70238405034759
+                        ],
+                        [
+                            -73.4972890190828,
+                            45.70215909743211
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49696797149304,
+                            45.7021590893707
+                        ],
+                        [
+                            -73.4966469239034,
+                            45.702159080407164
+                        ],
+                        [
+                            -73.49664691046699,
+                            45.70238403332253
+                        ],
+                        [
+                            -73.49696795934415,
+                            45.70238404228613
+                        ],
+                        [
+                            -73.49696797149304,
+                            45.7021590893707
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4966469239034,
+                            45.702159080407164
+                        ],
+                        [
+                            -73.49632587631395,
+                            45.70215907054146
+                        ],
+                        [
+                            -73.49632586159,
+                            45.702384023456744
+                        ],
+                        [
+                            -73.49664691046699,
+                            45.70238403332253
+                        ],
+                        [
+                            -73.4966469239034,
+                            45.702159080407164
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49632587631395,
+                            45.70215907054146
+                        ],
+                        [
+                            -73.49600482872467,
+                            45.702159059773614
+                        ],
+                        [
+                            -73.49600481271317,
+                            45.70238401268882
+                        ],
+                        [
+                            -73.49632586159,
+                            45.702384023456744
+                        ],
+                        [
+                            -73.49632587631395,
+                            45.70215907054146
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49600482872467,
+                            45.702159059773614
+                        ],
+                        [
+                            -73.49568378113555,
+                            45.7021590481036
+                        ],
+                        [
+                            -73.49568376383651,
+                            45.70238400101871
+                        ],
+                        [
+                            -73.49600481271317,
+                            45.70238401268882
+                        ],
+                        [
+                            -73.49600482872467,
+                            45.702159059773614
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49568378113555,
+                            45.7021590481036
+                        ],
+                        [
+                            -73.49536273354666,
+                            45.70215903553145
+                        ],
+                        [
+                            -73.49536271496008,
+                            45.702383988446456
+                        ],
+                        [
+                            -73.49568376383651,
+                            45.70238400101871
+                        ],
+                        [
+                            -73.49568378113555,
+                            45.7021590481036
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49536273354666,
+                            45.70215903553145
+                        ],
+                        [
+                            -73.49504168595799,
+                            45.702159022057124
+                        ],
+                        [
+                            -73.49504166608386,
+                            45.70238397497203
+                        ],
+                        [
+                            -73.49536271496008,
+                            45.702383988446456
+                        ],
+                        [
+                            -73.49536273354666,
+                            45.70215903553145
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49504168595799,
+                            45.702159022057124
+                        ],
+                        [
+                            -73.49472063836956,
+                            45.70215900768065
+                        ],
+                        [
+                            -73.49472061720786,
+                            45.702383960595434
+                        ],
+                        [
+                            -73.49504166608386,
+                            45.70238397497203
+                        ],
+                        [
+                            -73.49504168595799,
+                            45.702159022057124
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49472063836956,
+                            45.70215900768065
+                        ],
+                        [
+                            -73.49439959078136,
+                            45.70215899240203
+                        ],
+                        [
+                            -73.49439956833217,
+                            45.70238394531668
+                        ],
+                        [
+                            -73.49472061720786,
+                            45.702383960595434
+                        ],
+                        [
+                            -73.49472063836956,
+                            45.70215900768065
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49439959078136,
+                            45.70215899240203
+                        ],
+                        [
+                            -73.49407854319344,
+                            45.702158976221256
+                        ],
+                        [
+                            -73.49407851945669,
+                            45.70238392913578
+                        ],
+                        [
+                            -73.49439956833217,
+                            45.70238394531668
+                        ],
+                        [
+                            -73.49439959078136,
+                            45.70215899240203
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49407854319344,
+                            45.702158976221256
+                        ],
+                        [
+                            -73.4937574956058,
+                            45.70215895913831
+                        ],
+                        [
+                            -73.49375747058151,
+                            45.70238391205273
+                        ],
+                        [
+                            -73.49407851945669,
+                            45.70238392913578
+                        ],
+                        [
+                            -73.49407854319344,
+                            45.702158976221256
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4937574956058,
+                            45.70215895913831
+                        ],
+                        [
+                            -73.49343644801844,
+                            45.702158941153236
+                        ],
+                        [
+                            -73.49343642170663,
+                            45.70238389406749
+                        ],
+                        [
+                            -73.49375747058151,
+                            45.70238391205273
+                        ],
+                        [
+                            -73.4937574956058,
+                            45.70215895913831
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4799524498199,
+                            45.702157371134135
+                        ],
+                        [
+                            -73.47963140225976,
+                            45.70215731435641
+                        ],
+                        [
+                            -73.47963132058364,
+                            45.70238226725798
+                        ],
+                        [
+                            -73.47995236943135,
+                            45.70238232403615
+                        ],
+                        [
+                            -73.4799524498199,
+                            45.702157371134135
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47963140225976,
+                            45.70215731435641
+                        ],
+                        [
+                            -73.47931035470056,
+                            45.70215725667652
+                        ],
+                        [
+                            -73.4793102717369,
+                            45.70238220957766
+                        ],
+                        [
+                            -73.47963132058364,
+                            45.70238226725798
+                        ],
+                        [
+                            -73.47963140225976,
+                            45.70215731435641
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47931035470056,
+                            45.70215725667652
+                        ],
+                        [
+                            -73.47898930714234,
+                            45.70215719809449
+                        ],
+                        [
+                            -73.47898922289117,
+                            45.702382150995156
+                        ],
+                        [
+                            -73.4793102717369,
+                            45.70238220957766
+                        ],
+                        [
+                            -73.47931035470056,
+                            45.70215725667652
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47898930714234,
+                            45.70215719809449
+                        ],
+                        [
+                            -73.47866825958513,
+                            45.70215713861032
+                        ],
+                        [
+                            -73.47866817404642,
+                            45.70238209151051
+                        ],
+                        [
+                            -73.47898922289117,
+                            45.702382150995156
+                        ],
+                        [
+                            -73.47898930714234,
+                            45.70215719809449
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47866825958513,
+                            45.70215713861032
+                        ],
+                        [
+                            -73.47834721202895,
+                            45.70215707822396
+                        ],
+                        [
+                            -73.47834712520269,
+                            45.702382031123705
+                        ],
+                        [
+                            -73.47866817404642,
+                            45.70238209151051
+                        ],
+                        [
+                            -73.47866825958513,
+                            45.70215713861032
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47834721202895,
+                            45.70215707822396
+                        ],
+                        [
+                            -73.47802616447379,
+                            45.702157016935466
+                        ],
+                        [
+                            -73.47802607635998,
+                            45.702381969834725
+                        ],
+                        [
+                            -73.47834712520269,
+                            45.702382031123705
+                        ],
+                        [
+                            -73.47834721202895,
+                            45.70215707822396
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47802616447379,
+                            45.702157016935466
+                        ],
+                        [
+                            -73.47770511691967,
+                            45.70215695474484
+                        ],
+                        [
+                            -73.47770502751831,
+                            45.70238190764359
+                        ],
+                        [
+                            -73.47802607635998,
+                            45.702381969834725
+                        ],
+                        [
+                            -73.47802616447379,
+                            45.702157016935466
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47770511691967,
+                            45.70215695474484
+                        ],
+                        [
+                            -73.47738406936661,
+                            45.702156891652
+                        ],
+                        [
+                            -73.47738397867772,
+                            45.70238184455029
+                        ],
+                        [
+                            -73.47770502751831,
+                            45.70238190764359
+                        ],
+                        [
+                            -73.47770511691967,
+                            45.70215695474484
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.47706302181462,
+                            45.70215682765707
+                        ],
+                        [
+                            -73.47674197426373,
+                            45.70215676275995
+                        ],
+                        [
+                            -73.47674188099977,
+                            45.70238171565722
+                        ],
+                        [
+                            -73.4770629298382,
+                            45.70238178055484
+                        ],
+                        [
+                            -73.47706302181462,
+                            45.70215682765707
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49921530775963,
+                            45.7019341739306
+                        ],
+                        [
+                            -73.49889426145683,
+                            45.701934171282154
+                        ],
+                        [
+                            -73.49889425703326,
+                            45.70215912420674
+                        ],
+                        [
+                            -73.49921530462358,
+                            45.70215912685521
+                        ],
+                        [
+                            -73.49921530775963,
+                            45.7019341739306
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49889426145683,
+                            45.701934171282154
+                        ],
+                        [
+                            -73.49857321515412,
+                            45.701934167731565
+                        ],
+                        [
+                            -73.498573209443,
+                            45.70215912065612
+                        ],
+                        [
+                            -73.49889425703326,
+                            45.70215912420674
+                        ],
+                        [
+                            -73.49889426145683,
+                            45.701934171282154
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49857321515412,
+                            45.701934167731565
+                        ],
+                        [
+                            -73.49825216885141,
+                            45.70193416327882
+                        ],
+                        [
+                            -73.4982521618528,
+                            45.702159116203354
+                        ],
+                        [
+                            -73.498573209443,
+                            45.70215912065612
+                        ],
+                        [
+                            -73.49857321515412,
+                            45.701934167731565
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49825216885141,
+                            45.70193416327882
+                        ],
+                        [
+                            -73.49793112254885,
+                            45.70193415792394
+                        ],
+                        [
+                            -73.49793111426271,
+                            45.702159110848434
+                        ],
+                        [
+                            -73.4982521618528,
+                            45.702159116203354
+                        ],
+                        [
+                            -73.49825216885141,
+                            45.70193416327882
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49793112254885,
+                            45.70193415792394
+                        ],
+                        [
+                            -73.49761007624636,
+                            45.701934151666904
+                        ],
+                        [
+                            -73.4976100666727,
+                            45.702159104591324
+                        ],
+                        [
+                            -73.49793111426271,
+                            45.702159110848434
+                        ],
+                        [
+                            -73.49793112254885,
+                            45.70193415792394
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49761007624636,
+                            45.701934151666904
+                        ],
+                        [
+                            -73.497289029944,
+                            45.70193414450772
+                        ],
+                        [
+                            -73.4972890190828,
+                            45.70215909743211
+                        ],
+                        [
+                            -73.4976100666727,
+                            45.702159104591324
+                        ],
+                        [
+                            -73.49761007624636,
+                            45.701934151666904
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.497289029944,
+                            45.70193414450772
+                        ],
+                        [
+                            -73.49696798364175,
+                            45.70193413644642
+                        ],
+                        [
+                            -73.49696797149304,
+                            45.7021590893707
+                        ],
+                        [
+                            -73.4972890190828,
+                            45.70215909743211
+                        ],
+                        [
+                            -73.497289029944,
+                            45.70193414450772
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49696798364175,
+                            45.70193413644642
+                        ],
+                        [
+                            -73.49664693733966,
+                            45.70193412748293
+                        ],
+                        [
+                            -73.4966469239034,
+                            45.702159080407164
+                        ],
+                        [
+                            -73.49696797149304,
+                            45.7021590893707
+                        ],
+                        [
+                            -73.49696798364175,
+                            45.70193413644642
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 4,
+                "heatDesc": "High",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 5,
+                "stormDesc": "Major",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49664693733966,
+                            45.70193412748293
+                        ],
+                        [
+                            -73.49632589103773,
+                            45.7019341176173
+                        ],
+                        [
+                            -73.49632587631395,
+                            45.70215907054146
+                        ],
+                        [
+                            -73.4966469239034,
+                            45.702159080407164
+                        ],
+                        [
+                            -73.49664693733966,
+                            45.70193412748293
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49632589103773,
+                            45.7019341176173
+                        ],
+                        [
+                            -73.49600484473596,
+                            45.70193410684953
+                        ],
+                        [
+                            -73.49600482872467,
+                            45.702159059773614
+                        ],
+                        [
+                            -73.49632587631395,
+                            45.70215907054146
+                        ],
+                        [
+                            -73.49632589103773,
+                            45.7019341176173
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 2,
+                "floodDesc": "Minor"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49600484473596,
+                            45.70193410684953
+                        ],
+                        [
+                            -73.49568379843438,
+                            45.70193409517961
+                        ],
+                        [
+                            -73.49568378113555,
+                            45.7021590481036
+                        ],
+                        [
+                            -73.49600482872467,
+                            45.702159059773614
+                        ],
+                        [
+                            -73.49600484473596,
+                            45.70193410684953
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 3,
+                "stormDesc": "Moderate",
+                "rainValue": 2,
+                "rainDesc": "Minor",
+                "floodValue": 1,
+                "floodDesc": "Not significant"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49568379843438,
+                            45.70193409517961
+                        ],
+                        [
+                            -73.495362752133,
+                            45.701934082607536
+                        ],
+                        [
+                            -73.49536273354666,
+                            45.70215903553145
+                        ],
+                        [
+                            -73.49568378113555,
+                            45.7021590481036
+                        ],
+                        [
+                            -73.49568379843438,
+                            45.70193409517961
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 3,
+                "floodDesc": "Moderate"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.495362752133,
+                            45.701934082607536
+                        ],
+                        [
+                            -73.49504170583185,
+                            45.70193406913334
+                        ],
+                        [
+                            -73.49504168595799,
+                            45.702159022057124
+                        ],
+                        [
+                            -73.49536273354666,
+                            45.70215903553145
+                        ],
+                        [
+                            -73.495362752133,
+                            45.701934082607536
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 5,
+                "dryDesc": "Major",
+                "stormValue": 1,
+                "stormDesc": "Not significant",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49504170583185,
+                            45.70193406913334
+                        ],
+                        [
+                            -73.49472065953096,
+                            45.70193405475697
+                        ],
+                        [
+                            -73.49472063836956,
+                            45.70215900768065
+                        ],
+                        [
+                            -73.49504168595799,
+                            45.702159022057124
+                        ],
+                        [
+                            -73.49504170583185,
+                            45.70193406913334
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 3,
+                "heatDesc": "Moderate",
+                "dryValue": 3,
+                "dryDesc": "Moderate",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 5,
+                "rainDesc": "Major",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.49472065953096,
+                            45.70193405475697
+                        ],
+                        [
+                            -73.4943996132303,
+                            45.70193403947847
+                        ],
+                        [
+                            -73.49439959078136,
+                            45.70215899240203
+                        ],
+                        [
+                            -73.49472063836956,
+                            45.70215900768065
+                        ],
+                        [
+                            -73.49472065953096,
+                            45.70193405475697
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 5,
+                "heatDesc": "Major",
+                "dryValue": 1,
+                "dryDesc": "Not significant",
+                "stormValue": 2,
+                "stormDesc": "Minor",
+                "rainValue": 1,
+                "rainDesc": "Not significant",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.4943996132303,
+                            45.70193403947847
+                        ],
+                        [
+                            -73.49407856692989,
+                            45.70193402329782
+                        ],
+                        [
+                            -73.49407854319344,
+                            45.702158976221256
+                        ],
+                        [
+                            -73.49439959078136,
+                            45.70215899240203
+                        ],
+                        [
+                            -73.4943996132303,
+                            45.70193403947847
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 2,
+                "heatDesc": "Minor",
+                "dryValue": 4,
+                "dryDesc": "High",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 4,
+                "rainDesc": "High",
+                "floodValue": 4,
+                "floodDesc": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.48059462275562,
+                            45.70193252907135
+                        ],
+                        [
+                            -73.48027357648108,
+                            45.70193247409836
+                        ],
+                        [
+                            -73.480273497381,
+                            45.702157427009695
+                        ],
+                        [
+                            -73.48059454494305,
+                            45.70215748198311
+                        ],
+                        [
+                            -73.48059462275562,
+                            45.70193252907135
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "heatValue": 1,
+                "heatDesc": "Not significant",
+                "dryValue": 2,
+                "dryDesc": "Minor",
+                "stormValue": 4,
+                "stormDesc": "High",
+                "rainValue": 3,
+                "rainDesc": "Moderate",
+                "floodValue": 5,
+                "floodDesc": "Major"
+            }
+        }
+    ]
+}
