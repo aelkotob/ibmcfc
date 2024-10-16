@@ -1,18 +1,17 @@
 from fastapi import FastAPI
 from mangum import Mangum
-import json, requests
+import copy, json, requests
 from shapely.geometry import shape, Point
 
 app = FastAPI()
 handler = Mangum(app)
-
 
 url = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"
 
 headers = {
 	"Accept": "application/json",
 	"Content-Type": "application/json",
-	"Authorization": "Bearer {0}}"
+	"Authorization": "Bearer <TOKEN>"
 }
 
 body = {
@@ -63,7 +62,6 @@ Output:""",
 	}
 }
 
-
 rating = {
             1: 'Not Significant Risk',
             2: 'Minor Risk',
@@ -71,6 +69,7 @@ rating = {
             4: 'High Risk',
             5: 'Major Risk'
         }
+
 
 @app.get("/")
 async def get_site_info():
@@ -80,9 +79,10 @@ async def get_site_info():
 
 
 @app.get("/lat/{lat_val}/long/{long_val}")
-async def get_risk_rating(lat_val: float, long_val: float):
+async def get_risk_rating(lat_val: str, long_val: str):
     result = {"lat": lat_val, "long": long_val}
     found = False
+
     with open('climate-change-sample.geojson') as f:
         sample_data = json.load(f)
         point = Point(long_val, lat_val)
@@ -93,25 +93,30 @@ async def get_risk_rating(lat_val: float, long_val: float):
                 result = result | feature['properties']
                 break
 
-    payload = body
+    payload = copy.deepcopy(body)
     if found:
         payload["input"] = body["input"].format(result['heatValue'],
-                             result['dryValue'],
-                             result['stormValue'],
-                             result['rainValue'],
-                             result['floodValue'])
+                                                result['dryValue'],
+                                                result['stormValue'],
+                                                result['rainValue'],
+                                                result['floodValue'])
 
+        response = requests.post(
+            "https://iam.cloud.ibm.com/identity/token",
+            headers={"Content-Type": "application/x-www-form-urlencoded"},
+            data="grant_type=urn:ibm:params:oauth:grant-type:apikey&apikey=IG1ZhcG-pJqwLoCExzpw7U2YnubSuBvAM2KV59UoZ9tz"
+        )
+
+        headers["Authorization"] = 'Bearer ' + response.json()['access_token']
         response = requests.post(
             url,
             headers=headers,
             json=payload
         )
         if response.status_code != 200:
-            result['verdict'] = "Unknown Risk"
+            result['verdict'] = 'Unknown Risk'
         else:
-            print(response.json())
-            result['verdict'] = response.json()
-        print(response.json())
+            result['verdict'] = response.json()['results'][0]['generated_text'].strip()
     else:
         result['verdict'] = 'Unknown Risk'
     return result
